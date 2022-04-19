@@ -12,6 +12,6 @@ images:
 - digest: sha256:daf063fc1a482c9f62cb3cf026b4bff50f07151cdbb4178263f8a1b71f77cc23
   name: quay.io/dwojciecquay/vote-api
   newName: quay.io/dwojciecquay/vote-api
-- digest: sha256:41f15a44e1257b90caf2151a366b70a7b8b8d14c8541159d6a8a870809caa3ff
+- digest: sha256:893c5698542f8ef8600260c932c444851c8c6867c066a5f696b6f4ee157676ae
   name: quay.io/dwojciecquay/vote-ui
   newName: quay.io/dwojciecquay/vote-ui
